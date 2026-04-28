@@ -1,4 +1,8 @@
 /data/raw/NEU-DET/
 /data/yolo/
-/outputs/vis/
+
 /1.py
+/1
+/yolo*
+/runs/
+*.jpg

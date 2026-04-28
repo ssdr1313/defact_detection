@@ -1,0 +1,7 @@
+class_id,class_name,gt_instances,pred_instances,TP,FP,FN,precision_by_matching,recall_by_matching,class_error_as_gt,class_error_as_pred,bad_location
+0,crazing,80,174,47,127,33,0.270115,0.587500,0,0,28
+1,inclusion,92,170,86,84,6,0.505882,0.934783,0,0,3
+2,patches,99,143,96,47,3,0.671329,0.969697,0,1,0
+3,pitted_surface,36,68,32,36,4,0.470588,0.888889,2,0,1
+4,rolled-in_scale,60,156,50,106,10,0.320513,0.833333,0,1,7
+5,scratches,64,95,60,35,4,0.631579,0.937500,0,0,2
